@@ -4,4 +4,4 @@ prefix = '' >
 
 link = '' https://discordapp.com/oauth2/authorize?client_id=489093760815464469&scope=bot&permissions=8
 
-ownerid = '' #put your id here
+ownerid = '' 297447596241190913

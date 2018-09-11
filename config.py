@@ -1,8 +1,8 @@
-token = '' #Put Your bots token here
+token = '' NDg5MDkzNzYwODE1NDY0NDY5.DnlwBg.HA7mNofVnWypNNx13ObdX2iewfI
 
-prefix = '' #put prefix here
+prefix = '' >
 
-link = '' #put bot invite link here
+link = '' https://discordapp.com/api/oauth2/authorize?client_id=489093760815464469&permissions=8&scope=bot
 
-ownerid = '' #put your id here
+ownerid = '' 489093760815464469
 

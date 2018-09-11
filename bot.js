@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('discord.py');
 const client = new Discord.Client();
 
 client.on('ready', () => {
@@ -12,4 +12,4 @@ client.on('message', message => {
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NDg3NzQ3OTU0MjA4MTQ1NDMz.Dnh0bQ.PFt6vftlewYPQejses00AoZvm6s);

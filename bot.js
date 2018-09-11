@@ -1,15 +1,7 @@
-const Discord = require('discord.py');
-const client = new Discord.Client();
+token = '' NDg5MDkzNzYwODE1NDY0NDY5.DnlwBg.HA7mNofVnWypNNx13ObdX2iewfI
 
-client.on('ready', () => {
-    console.log('I am ready!');
-});
+prefix = '' >
 
-client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
-  	}
-});
+link = '' https://discordapp.com/oauth2/authorize?client_id=489093760815464469&scope=bot&permissions=8
 
-// THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+ownerid = '' #put your id here

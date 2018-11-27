@@ -1,0 +1,15 @@
+{
+    "alias" : {
+        "alias example" : {
+            "linux" : "printf \"Hello.\nThis is a alias made using the magic of python.\"",
+            "windows" : "echo Hello. This is alias made using the magic of python."
+        }
+    },
+    "cos" : "default",
+    "enabled" : true,
+    "os" : {
+        "linux" : "{user}@{system}:{path} $ ",
+        "windows" : "{path}>"
+    },
+    "prefix" : ">"
+}
